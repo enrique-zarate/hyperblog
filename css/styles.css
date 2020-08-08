@@ -1,5 +1,15 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    color: crimson;
+    color: darkgoldenrod;
+}
+
+.caja-central {
+    margin: 60px;
+    padding: 20px;
+    font-size: 1.3em;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-style: dotted ;
 }
