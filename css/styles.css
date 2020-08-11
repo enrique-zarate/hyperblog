@@ -1,7 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    color: darkred;
+    color: darkblue;
 }
 
 .caja-grande {
@@ -15,7 +15,7 @@ body {
 }
 
 .cabecera {
-    background-color: #ecc61c;
+    background-color: #7e680a;
     padding: 0.5em;
     margin: 1em;
     color: antiquewhite;
