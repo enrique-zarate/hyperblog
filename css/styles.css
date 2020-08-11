@@ -4,16 +4,23 @@ body {
     color: darkgoldenrod;
 }
 
-.caja-central {
+.caja-grande {
     margin: 60px;
-    padding: 20px;
+    padding: 0px;
+    font-size: 1.3em;
     text-align: left;
     margin-left: 100px;
     margin-right: 100px;
     border-style: dotted ;
 }
 
-.post {
-    font-family: 'courier';
-    color: darkblue;
+.cabecera {
+    background-color: #ecc61c;
+    padding: 0.5em;
+    margin: 1em;
+    color: antiquewhite;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.6rem;
+    box-shadow: black;
 }
