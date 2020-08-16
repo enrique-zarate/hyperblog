@@ -6,12 +6,12 @@ body {
 
 .caja-grande {
     margin: 60px;
-    padding: 0px;
+    padding: 10px;
     font-size: 1.3em;
     text-align: left;
     margin-left: 100px;
     margin-right: 100px;
-    border-style: dotted ;
+    border-style: solid ;
 }
 
 .cabecera {
@@ -28,4 +28,11 @@ body {
 .roadster {
     height: 50px;
     width: auto;
+}
+.footer {
+    background-color: cornflowerblue;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-family: cursive;
 }
