@@ -24,3 +24,8 @@ body {
     font-size: 0.6rem;
     box-shadow: black;
 }
+
+.roadster {
+    height: 50px;
+    width: auto;
+}
